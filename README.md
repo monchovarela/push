@@ -1,4 +1,4 @@
-# push
+# Push
 Sample app made with Corona
 
-[](https://github.com/monchovarela/push/screenshot.png)
+![](https://github.com/monchovarela/push/screenshot.png)
