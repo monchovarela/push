@@ -1,0 +1,25 @@
+{
+    "skin":{
+        "play": "storage/images/press.png",
+        "play_over": "storage/images/over.png",
+        "rec": "storage/images/rec.png",
+        "rec_over": "storage/images/rec_over.png",
+        "del": "storage/images/del.png",
+        "del_over": "storage/images/del_over.png",
+    },
+    "file":{
+        "not_exists": "The file not exists",
+        "remove": "The file has been delete"
+    },
+    "info":{
+        "loop_mode_on":"Loop mode on",
+        "loop_mode_off":"Loop mode off",
+        "start_recording": "Start recordig audio",
+        "Stop_recording": "Stop recordig audio",
+        "rec_mode_on": "Rec mode on",
+        "rec_mode_off": "Rec mode off",
+        "del_mode_on": "Delete mode on",
+        "del_mode_off": "Delete mode off",
+        "section_info": "Help section on"
+    }
+}

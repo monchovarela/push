@@ -1,0 +1,30 @@
+settings =
+{
+    orientation =
+    {
+        default = "portrait",
+        supported = { "portrait" }
+    },
+    android =
+    {
+        usesPermissions =
+        {
+            "android.permission.INTERNET",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+        }
+    },
+    plugins =
+    {
+        ["plugin.google.iap.v3"] =
+        {
+            publisherId = "com.coronalabs",
+            supportedPlatforms = { android=true }
+        },
+        ["plugin.notifications"] =
+        {
+            publisherId = "com.coronalabs"
+        }
+    },
+
+}
